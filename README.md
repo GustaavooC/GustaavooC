@@ -37,7 +37,7 @@
 
 💡 Sou apaixonado por tecnologia e comprometido com a criação de soluções inovadoras. Com sólida experiência em desenvolvimento Back-End e um histórico de sucesso na implementação de projetos escaláveis e eficientes, meu objetivo é transformar ideias em realidade através da programação. Let's code for success! 💻🚀
 
-- 💼 Atualmente, sou Diretor de Tecnologia na **Genial Sistemas**, liderando o desenvolvimento de plataformas para apostas online e iGaming.
+
 - 🔐 Experiência em desenvolvimento de software seguro, com foco em DevSecOps e práticas OWASP.
 - 🌱 Aprendendo mais sobre escalabilidade e segurança de aplicações, enquanto aprimoro minhas habilidades com novas tecnologias.
 
