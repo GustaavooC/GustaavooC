@@ -1,81 +1,123 @@
-## Olá, meu nome é Gustavo Cavalcanti!
+# 👨‍💻 Gustavo Cavalcanti
 
-### ⚙️ GitHub Analytics
+🚀 Backend Engineer | Systems Architecture | AI & Automation
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GustaavooC&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaavooC&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=GustaavooC&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+Especialista em desenvolvimento de **sistemas escaláveis, seguros e de alta performance**, com experiência em **back-end, arquitetura de software, automação e bancos de dados complexos**.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=GustaavooC&color=006bed)
+# 📊 GitHub Analytics
 
-## Sobre mim
+<p align="center">
 
-💡 Sou apaixonado por tecnologia e comprometido com a criação de soluções inovadoras. Com sólida experiência em desenvolvimento Back-End e um histórico de sucesso na implementação de projetos escaláveis e eficientes, meu objetivo é transformar ideias em realidade através da programação. Let's code for success! 💻🚀
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustaavooC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaavooC&layout=compact&theme=tokyonight"/>
 
-- 🔐 Experiência em desenvolvimento de software seguro, com foco em DevSecOps e práticas OWASP.
-- 🌱 Aprendendo mais sobre escalabilidade e segurança de aplicações, enquanto aprimoro minhas habilidades com novas tecnologias.
+</p>
 
-## Minhas Skills
+<p align="center">
 
-**Back-End Development**
+<img height="170em" src="https://streak-stats.demolab.com?user=GustaavooC&theme=tokyonight"/>
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+</p>
 
-**Security**
+---
 
-![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
-![DevSecOps](https://img.shields.io/badge/-DevSecOps-333333?style=flat&logo=devops)
+# 🧠 Sobre mim
 
-**DevOps**
+Sou desenvolvedor focado em **engenharia de software, backend e arquitetura de sistemas distribuídos**.
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+Tenho experiência na criação de sistemas que exigem:
 
-**Ferramentas de desenvolvimento**
+- alta escalabilidade
+- segurança avançada
+- integração de APIs
+- processamento de grandes volumes de dados
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+Também atuo com **automação e inteligência artificial aplicada a sistemas empresariais.**
 
-<br/>
+---
 
-<a href="https://github.com/GustaavooC" title="Perfil do Gustavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaavooC&theme=dracula&show_icons=true" />
-</a>
+# 🚀 Tech Stack
 
-## Onde me encontrar
+## Backend Development
 
-[![Linkedin](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gustavo-cavalcanti-486208211/)](linkedin.com/in/gustavo-cavalcanti-486208211)
-[![Gmail Badge](https://img.shields.io/badge/-gustaafds45@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustaafds45@gmail.com)](mailto:gustaafds45@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/GustaavooC?label=follow&style=social)](https://github.com/GustaavooC)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+
+---
+
+## Databases & Data Engineering
+
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-111?style=for-the-badge&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
+
+Experiência com:
+
+- modelagem de **bancos de dados complexos**
+- sistemas **high availability**
+- **large scale data processing**
+- arquitetura inspirada em sistemas como **Google Spanner / Bigtable**
+
+---
+
+## DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/Github-111?style=for-the-badge&logo=github)
+
+---
+
+## Security
+
+![OWASP](https://img.shields.io/badge/OWASP-111?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-111?style=for-the-badge)
+
+Experiência em:
+
+- desenvolvimento seguro
+- práticas **OWASP**
+- proteção de APIs
+- segurança de aplicações web
+
+---
+
+# 📈 Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GustaavooC&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Contato
+
+📧 **Email**  
+gustaafds45@gmail.com
+
+💼 **LinkedIn**  
+https://linkedin.com/in/gustavo-cavalcanti-486208211
+
+🐙 **GitHub**  
+https://github.com/GustaavooC
+
+---
+
+<p align="center">
+Profile views
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=GustaavooC&color=blue"/>
+
+</p>
